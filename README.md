@@ -3,7 +3,7 @@
 Personal sveltekit template.
 
 Comes with:
-- bulma
-- node adapter to deploy to render
+- Bulma
+- Node adapter to deploy to render
 
 https://github.com/JStet/sveltekit_template/generate
