@@ -5,6 +5,7 @@ Personal sveltekit template.
 Comes with:
 - bulma
 - node adapter to deploy to render
+- Sass file allowing to overwride bulma variables e.g. colors
 
 https://github.com/JStet/sveltekit_template/generate
 
